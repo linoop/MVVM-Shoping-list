@@ -1,0 +1,18 @@
+com/technowaysoftware/mvvmshopinglist/databinding/ShoppingItemBinding.java
+ com.technowaysoftware.mvvmshopinglist.databinding.ShoppingItemBinding
+com/technowaysoftware/mvvmshopinglist/databinding/ActivityShoppingBinding.java
+ com.technowaysoftware.mvvmshopinglist.databinding.ActivityShoppingBinding
+com/technowaysoftware/mvvmshopinglist/data/db/ShoppingDatabase_Impl.java
+ com.technowaysoftware.mvvmshopinglist.data.db.ShoppingDatabase_Impl
+ com.technowaysoftware.mvvmshopinglist.data.db.ShoppingDatabase_Impl$1
+com/technowaysoftware/mvvmshopinglist/databinding/DialogAddItemBinding.java
+ com.technowaysoftware.mvvmshopinglist.databinding.DialogAddItemBinding
+com/technowaysoftware/mvvmshopinglist/BuildConfig.java
+ com.technowaysoftware.mvvmshopinglist.BuildConfig
+com/technowaysoftware/mvvmshopinglist/data/db/ShoppingDao_Impl.java
+ com.technowaysoftware.mvvmshopinglist.data.db.ShoppingDao_Impl
+ com.technowaysoftware.mvvmshopinglist.data.db.ShoppingDao_Impl$1
+ com.technowaysoftware.mvvmshopinglist.data.db.ShoppingDao_Impl$2
+ com.technowaysoftware.mvvmshopinglist.data.db.ShoppingDao_Impl$3
+ com.technowaysoftware.mvvmshopinglist.data.db.ShoppingDao_Impl$4
+ com.technowaysoftware.mvvmshopinglist.data.db.ShoppingDao_Impl$5

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\linoo\\Desktop\\Android Exercise\\MVVMShopingList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\shopping_item.xml",
+        "source": "C:\\Users\\linoo\\Desktop\\Android Exercise\\MVVMShopingList\\app\\src\\main\\res\\layout\\shopping_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\linoo\\Desktop\\Android Exercise\\MVVMShopingList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_shopping.xml",
+        "source": "C:\\Users\\linoo\\Desktop\\Android Exercise\\MVVMShopingList\\app\\src\\main\\res\\layout\\activity_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\linoo\\Desktop\\Android Exercise\\MVVMShopingList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_add_item.xml",
+        "source": "C:\\Users\\linoo\\Desktop\\Android Exercise\\MVVMShopingList\\app\\src\\main\\res\\layout\\dialog_add_item.xml"
+    }
+]
