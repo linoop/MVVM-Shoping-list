@@ -5,6 +5,7 @@ import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import com.technowaysoftware.mvvmshopinglist.data.db.entities.ShoppingItem
+import javax.inject.Inject
 
 @Database(entities = [ShoppingItem::class], version = 1)
 abstract class ShoppingDatabase : RoomDatabase() {
